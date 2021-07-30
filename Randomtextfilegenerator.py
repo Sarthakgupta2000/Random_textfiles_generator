@@ -2,7 +2,7 @@
     # Random text file generator
 
 
-    To use :- python Randomtextfilegenerator.py "target_directory" number_of_file file_size_in_mb
+    To use :- python Randomtextfilegenerator.py <target_directory> <number_of_file> <file_size_in_mb>
 
     this python script generates 'n1' text files with 'n' bytes of data
 
